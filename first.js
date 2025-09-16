@@ -7,4 +7,5 @@ const b=20;
 
 for(a;a<b;a++);
 
-
+console.log(a);
+console.log(a>b);
