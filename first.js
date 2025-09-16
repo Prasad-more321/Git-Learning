@@ -9,3 +9,13 @@ for(a;a<b;a++);
 
 console.log(a);
 console.log(a>b);
+
+//feature 
+console.log('adding button');
+console.log("......");
+
+console.log("button added");
+console.log('working fine');
+
+console.log('adding button 2 ');
+console.log('button 2 added');
